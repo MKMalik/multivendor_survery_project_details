@@ -20,3 +20,7 @@ Developed using Next.js for both Super Admin and Admin interfaces
 - Single and multiple choice questions
 - Role-based access ensured secure data visibility and scoped permissions
 - Delivered as a freelance project including end-to-end feature development, deployment, admin onboarding, and ongoing support
+
+## Partner App (Survey App)
+- Assigned partners can see assigned projects on app
+- Partners can perform surveys with interactive questions presented to them on app
